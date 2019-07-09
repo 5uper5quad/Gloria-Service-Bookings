@@ -1,6 +1,6 @@
 # Project Name
 
-> This service renders the calendar/booking portion of Airbnb 'homes' page. The calendar is janky (just wanted to see if I could build a calendar from scratch: spoiler alert, I cannot), and the real meat of this is really the database/schema (Bookings is nested in Listings :o).
+> This service renders the calendar/booking portion of Airbnb 'homes' page. The calendar is built from scratch (wanted to see if I could build a calendar from scratch using linked lists and tables). The real meat of this is really the database and the shape of the data (Bookings is nested in Listings).
 
 ## Related Projects
 
