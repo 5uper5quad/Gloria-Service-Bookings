@@ -28,7 +28,7 @@ const H2= styled.h2`
 `
 
 const Styles=styled.div`
-  font-family: 'MontrealRegular', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   width: 100%; 
   font-color: #484848;

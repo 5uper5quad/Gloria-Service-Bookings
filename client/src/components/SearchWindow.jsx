@@ -79,7 +79,7 @@ const BookButton = styled.button`
 
 
 const InlineP = styled.p`
-    font-family: 'MontrealRegular', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 9px;
     display: inline-block;
     text-align: center;
@@ -88,7 +88,7 @@ const InlineP = styled.p`
 `
 
 const BlockP = styled.p`
-    font-family: 'MontrealRegular', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 9px;
     display: block;
     text-align: left;
@@ -134,7 +134,7 @@ const Container = styled.div`
 `
 
 const DropDown = styled.div`
-    font-family: 'MontrealRegular', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     width: 100%;
     display: flex;
     flex-direction: column;
